@@ -10,3 +10,4 @@ This Github Organization hosts all of Telcoin Association's open-source experime
 We are currently building:
 [Telcoin Labs](https://github.com/Telcoin-Association/telcoin-laboratories-contracts): a collection of on-chain programs comprising the Telcoin Association infrastructure.
 
+Telcoin Network: the EVM-compatible L1 protocol for Mobile Network Operators (open-source repo coming soon)
